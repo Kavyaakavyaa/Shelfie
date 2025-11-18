@@ -1,0 +1,153 @@
+2025-11-06 21:33:05,586 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 22:48:38,876 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 22:48:47,122 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 22:48:48,699 - INFO - === API CALL START ===
+2025-11-06 22:48:48,700 - INFO - Timestamp: 2025-11-06 22:48:48
+2025-11-06 22:48:48,700 - INFO - Input text length: 1630 characters
+2025-11-06 22:48:48,700 - INFO - Estimated input tokens: 407
+2025-11-06 22:48:48,700 - INFO - Vision AI enabled: False
+2025-11-06 22:48:48,700 - INFO - Target language: en
+2025-11-06 22:48:59,573 - ERROR - API call failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-06 22:48:59,573 - INFO - === API CALL FAILED ===
+2025-11-06 22:59:45,397 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 22:59:49,713 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:00:46,734 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:00:56,623 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:00:56,674 - INFO - === API CALL START ===
+2025-11-06 23:00:56,674 - INFO - Timestamp: 2025-11-06 23:00:56
+2025-11-06 23:00:56,674 - INFO - Input text length: 1630 characters
+2025-11-06 23:00:56,674 - INFO - Estimated input tokens: 407
+2025-11-06 23:00:56,675 - INFO - Vision AI enabled: False
+2025-11-06 23:00:56,675 - INFO - Target language: en
+2025-11-06 23:01:07,037 - ERROR - API call failed: 404 models/gemini-pro-vision is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-06 23:01:07,378 - INFO - === API CALL FAILED ===
+2025-11-06 23:01:59,325 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:02:08,758 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:02:13,860 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:02:13,918 - INFO - === API CALL START ===
+2025-11-06 23:02:13,918 - INFO - Timestamp: 2025-11-06 23:02:13
+2025-11-06 23:02:13,918 - INFO - Input text length: 1630 characters
+2025-11-06 23:02:13,918 - INFO - Estimated input tokens: 407
+2025-11-06 23:02:13,918 - INFO - Vision AI enabled: False
+2025-11-06 23:02:13,918 - INFO - Target language: en
+2025-11-06 23:02:18,339 - ERROR - API call failed: 404 models/gemini-pro-vision is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-06 23:02:18,340 - INFO - === API CALL FAILED ===
+2025-11-06 23:09:15,138 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:10:00,142 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:10:07,002 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-06 23:10:07,063 - INFO - === API CALL START ===
+2025-11-06 23:10:07,063 - INFO - Timestamp: 2025-11-06 23:10:07
+2025-11-06 23:10:07,063 - INFO - Input text length: 1630 characters
+2025-11-06 23:10:07,063 - INFO - Estimated input tokens: 407
+2025-11-06 23:10:07,064 - INFO - Vision AI enabled: False
+2025-11-06 23:10:07,064 - INFO - Target language: en
+2025-11-06 23:10:38,800 - INFO - ACTUAL TOKEN USAGE:
+2025-11-06 23:10:38,880 - INFO - Input tokens: 644
+2025-11-06 23:10:38,880 - INFO - Output tokens: 446
+2025-11-06 23:10:38,880 - INFO - Total tokens: 5519
+2025-11-06 23:10:38,880 - INFO - === API CALL END ===
+2025-11-07 09:37:35,169 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:38:50,747 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:40:24,381 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:41:14,872 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:41:45,621 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:51:41,369 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:54:31,329 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:55:49,770 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:56:20,201 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:59:02,477 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:59:13,418 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:59:14,432 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:59:25,120 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 09:59:25,779 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 10:04:46,194 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 10:05:46,120 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 10:05:56,502 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 10:05:56,901 - INFO - === MEAL SUGGESTION API CALL START ===
+2025-11-07 10:05:56,901 - INFO - Timestamp: 2025-11-07 10:05:56
+2025-11-07 10:06:20,874 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 10:13:42,109 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 10:23:54,854 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 11:47:07,091 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 11:47:43,327 - INFO - === MEAL SUGGESTION API CALL START ===
+2025-11-07 11:47:43,329 - INFO - Timestamp: 2025-11-07 11:47:43
+2025-11-07 11:48:46,580 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 11:53:57,561 - INFO - === API CALL START ===
+2025-11-07 11:53:57,562 - INFO - Timestamp: 2025-11-07 11:53:57
+2025-11-07 11:53:57,562 - INFO - Input text length: 1630 characters
+2025-11-07 11:53:57,562 - INFO - Estimated input tokens: 407
+2025-11-07 11:53:57,562 - INFO - Vision AI enabled: False
+2025-11-07 11:53:57,562 - INFO - Target language: hi
+2025-11-07 11:54:37,751 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 11:54:37,754 - INFO - Input tokens: 644
+2025-11-07 11:54:37,754 - INFO - Output tokens: 475
+2025-11-07 11:54:37,754 - INFO - Total tokens: 4139
+2025-11-07 11:54:37,754 - INFO - === API CALL END ===
+2025-11-07 11:57:53,176 - INFO - === API CALL START ===
+2025-11-07 11:57:53,177 - INFO - Timestamp: 2025-11-07 11:57:53
+2025-11-07 11:57:53,177 - INFO - Input text length: 1630 characters
+2025-11-07 11:57:53,177 - INFO - Estimated input tokens: 407
+2025-11-07 11:57:53,177 - INFO - Vision AI enabled: False
+2025-11-07 11:57:53,177 - INFO - Target language: hi
+2025-11-07 11:58:11,653 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 11:58:11,655 - INFO - Input tokens: 644
+2025-11-07 11:58:11,655 - INFO - Output tokens: 450
+2025-11-07 11:58:11,656 - INFO - Total tokens: 3639
+2025-11-07 11:58:11,656 - INFO - === API CALL END ===
+2025-11-07 12:24:31,146 - INFO - === API CALL START ===
+2025-11-07 12:24:31,146 - INFO - Timestamp: 2025-11-07 12:24:31
+2025-11-07 12:24:31,146 - INFO - Input text length: 1630 characters
+2025-11-07 12:24:31,146 - INFO - Estimated input tokens: 407
+2025-11-07 12:24:31,146 - INFO - Vision AI enabled: False
+2025-11-07 12:24:31,146 - INFO - Target language: hi
+2025-11-07 12:24:34,443 - INFO - === API CALL START ===
+2025-11-07 12:24:34,443 - INFO - Timestamp: 2025-11-07 12:24:34
+2025-11-07 12:24:34,443 - INFO - Input text length: 1630 characters
+2025-11-07 12:24:34,443 - INFO - Estimated input tokens: 407
+2025-11-07 12:24:34,443 - INFO - Vision AI enabled: False
+2025-11-07 12:24:34,443 - INFO - Target language: hi
+2025-11-07 12:24:51,463 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 12:24:51,464 - INFO - Input tokens: 644
+2025-11-07 12:24:51,464 - INFO - Output tokens: 448
+2025-11-07 12:24:51,464 - INFO - Total tokens: 3538
+2025-11-07 12:24:51,464 - INFO - === API CALL END ===
+2025-11-07 12:24:52,434 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 12:24:52,434 - INFO - Input tokens: 644
+2025-11-07 12:24:52,434 - INFO - Output tokens: 521
+2025-11-07 12:24:52,435 - INFO - Total tokens: 4430
+2025-11-07 12:24:52,435 - INFO - === API CALL END ===
+2025-11-07 12:25:02,657 - INFO - === MEAL SUGGESTION API CALL START ===
+2025-11-07 12:25:02,657 - INFO - Timestamp: 2025-11-07 12:25:02
+2025-11-07 12:25:20,367 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 12:32:22,490 - INFO - === API CALL START ===
+2025-11-07 12:32:22,492 - INFO - Timestamp: 2025-11-07 12:32:22
+2025-11-07 12:32:22,492 - INFO - Input text length: 1630 characters
+2025-11-07 12:32:22,492 - INFO - Estimated input tokens: 407
+2025-11-07 12:32:22,492 - INFO - Vision AI enabled: False
+2025-11-07 12:32:22,492 - INFO - Target language: hi
+2025-11-07 12:33:38,644 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 12:33:38,646 - INFO - Input tokens: 644
+2025-11-07 12:33:38,647 - INFO - Output tokens: 515
+2025-11-07 12:33:38,647 - INFO - Total tokens: 4532
+2025-11-07 12:33:38,647 - INFO - === API CALL END ===
+2025-11-07 12:54:12,487 - INFO - === MEAL SUGGESTION API CALL START ===
+2025-11-07 12:54:12,489 - INFO - Timestamp: 2025-11-07 12:54:12
+2025-11-07 12:54:39,394 - INFO - === API CALL START ===
+2025-11-07 12:54:39,396 - INFO - Timestamp: 2025-11-07 12:54:39
+2025-11-07 12:54:39,396 - INFO - Input text length: 1630 characters
+2025-11-07 12:54:39,396 - INFO - Estimated input tokens: 407
+2025-11-07 12:54:39,396 - INFO - Vision AI enabled: False
+2025-11-07 12:54:39,396 - INFO - Target language: hi
+2025-11-07 12:54:40,721 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 12:55:04,624 - INFO - ACTUAL TOKEN USAGE:
+2025-11-07 12:55:04,625 - INFO - Input tokens: 644
+2025-11-07 12:55:04,625 - INFO - Output tokens: 498
+2025-11-07 12:55:04,625 - INFO - Total tokens: 4838
+2025-11-07 12:55:04,625 - INFO - === API CALL END ===
+2025-11-07 12:56:11,420 - INFO - === MEAL SUGGESTION API CALL START (TEXT) ===
+2025-11-07 12:56:11,422 - INFO - Timestamp: 2025-11-07 12:56:11
+2025-11-07 12:56:31,176 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 13:39:47,337 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-11-07 13:41:59,978 - INFO - === MEAL SUGGESTION API CALL START (TEXT) ===
+2025-11-07 13:41:59,985 - INFO - Timestamp: 2025-11-07 13:41:59
+2025-11-07 13:42:21,763 - INFO - === MEAL SUGGESTION API CALL END ===

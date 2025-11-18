@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+google-generativeai
+Pillow
+google-cloud-speech
+google-cloud-texttospeech
+google-cloud-vision
+google-cloud-translate
+pandas
+google-cloud-bigquery
+SpeechRecognition
+pyttsx3
+requests
