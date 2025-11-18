@@ -151,3 +151,7 @@
 2025-11-07 13:41:59,978 - INFO - === MEAL SUGGESTION API CALL START (TEXT) ===
 2025-11-07 13:41:59,985 - INFO - Timestamp: 2025-11-07 13:41:59
 2025-11-07 13:42:21,763 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-07 17:02:21,738 - INFO - === MEAL SUGGESTION API CALL START (TEXT) ===
+2025-11-07 17:02:21,741 - INFO - Timestamp: 2025-11-07 17:02:21
+2025-11-07 17:02:49,842 - INFO - === MEAL SUGGESTION API CALL END ===
+2025-11-10 16:13:02,925 - WARNING - Google Cloud services not configured: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
